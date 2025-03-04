@@ -1,0 +1,10 @@
+f946436 (HEAD -> main) Second commita=53
+b=61
+
+ HEAD
+sum = a+b
+print "Sum of two numbers is :" sum
+
+Sum= a+b
+Print "sum of two numbers" is: "sum"
+  f946436 (Second commit)
